@@ -1,0 +1,1 @@
+{"v":"1.0","msg":"1、功能升级","surl":"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/jenth/mojing/master/mojing.plist"}
