@@ -15,27 +15,23 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/jenth/mojing/master/Icon%402x.png</string>
+					<string>https://raw.githubusercontent.com/jenth/mojing/master/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/jenth/mojing/master/Icon.png</string>
+					<string>https://raw.githubusercontent.com/jenth/mojing/master/Icon%402x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string> com.duc.mojing1 </string>
+				<string>com.duc.mojing1</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
