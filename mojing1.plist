@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://maichang.duc.cn/maichang/testSZS/mojing.ipa</string>
+					<string>https://github.com/jenth/mojing/blob/master/mojing.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://maichang.duc.cn/maichang/testSZS/Icon.png</string>
+					<string>https://raw.githubusercontent.com/jenth/mojing/master/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://maichang.duc.cn/maichang/testSZS/Icon%402x.png</string>
+					<string>https://raw.githubusercontent.com/jenth/mojing/master/Icon%402x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
